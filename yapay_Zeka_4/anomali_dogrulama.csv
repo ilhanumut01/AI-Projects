@@ -1,0 +1,4 @@
+Model,Precision,Recall,F1-Score,ROC-AUC,Süre (sn)
+Isolation Forest,0.165,0.165,0.165,0.9387,0.6929
+Local Outlier Factor,0.445,0.445,0.445,0.8065,0.4843
+One-Class SVM,0.4976,0.515,0.5061,0.8617,0.3193

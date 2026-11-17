@@ -1,0 +1,16 @@
+Provider Type,State Code of the Provider,HCPCS Code,HCPCS Description,Number of Services,Number of Medicare Beneficiaries,Number of Distinct Medicare Beneficiary/Per Day Services,Average Medicare Allowed Amount,Average Submitted Charge Amount,Average Medicare Payment Amount,Average Medicare Standardized Amount,Oy,Ortalama_Sira_Skoru
+Internal Medicine,FL,J2505,"Injection, pegfilgrastim, 6 mg",20.0,11,20,4173.6935,14165.19,2777.832,3404.533,3,0.9968
+Ophthalmology,FL,J0178,"Injection, aflibercept, 1 mg",1724.0,219,834,978.63523782,1200.0,761.22763921,768.77325406,3,0.9962
+Clinical Laboratory,FL,P9604,Travel allowance one way in connection with medically necessary laboratory specimen collection drawn from home bound or nursing home bound patient; prorated trip charge,31392.0,12688,30711,3.1352150229,3.4885980505,3.0721473624,3.0721473624,3,0.9954
+Clinical Laboratory,TX,G0482,"Drug test(s), definitive, utilizing drug identification methods able to identify individual drugs and distinguish between structural isomers (but not necessarily stereoisomers), including, but not limited to gc/ms (any type, single or tandem) and lc/ms (an",5920.0,3387,5920,203.25706757,1127.0854932,198.45386149,200.22606757,3,0.995
+General Surgery,TX,37225,"Removal of plaque in arteries in one leg, endovascular, accessed through the skin or open procedure",153.0,102,153,10296.58,32165.468497,8065.9669935,8666.8868627,3,0.9933
+Hematology-Oncology,IA,J2505,"Injection, pegfilgrastim, 6 mg",89.0,28,89,4223.6032584,4709.3707865,3311.3008989,3311.3008989,3,0.9931
+Rheumatology,VA,J9310,"Injection, rituximab, 100 mg",380.0,12,38,828.15644737,1115.7894737,649.27439474,649.27439474,3,0.9925
+Ambulance Service Provider,AZ,A0436,"Rotary wing air mileage, per statute mile",13835.0,96,97,27.445971088,247.20999928,21.517635707,10.464851464,3,0.9924
+Clinical Laboratory,CA,85610,"Blood test, clotting time",30559.0,2738,30536,5.3838424032,13.714300533,5.273964135,5.28,3,0.9922
+Ambulance Service Provider,AR,A0431,"Ambulance service, conventional air services, transport, one way (rotary wing)",154.0,151,154,4843.0972078,27194.323312,3791.0409091,3620.9644805,3,0.992
+Medical Oncology,OH,J9310,"Injection, rituximab, 100 mg",286.0,19,38,831.21353147,1662.4283217,651.67132867,651.6713986,3,0.9919
+Radiation Oncology,TX,G6015,"Intensity modulated treatment delivery, single or multiple fields/arcs,via narrow spatially and temporally modulated beams, binary, dynamic mlc, per treatment session",968.0,32,955,352.24283058,2762.0,276.01168388,273.62661157,3,0.9917
+Ambulance Service Provider,KY,A0427,"Ambulance service, advanced life support, emergency transport, level 1 (als 1 - emergency)",2935.0,1924,2922,393.40643612,900.01192504,302.5971925,330.35782283,3,0.9912
+Ambulatory Surgical Center,CO,66984,Removal of cataract with insertion of lens,519.0,348,519,979.21990366,8438.628131,762.90793834,751.23078998,3,0.9907
+Ambulance Service Provider,PA,A0425,"Ground mileage, per statute mile",22424.1,1707,2973,7.0881828033,15.0,5.5570970518,10.273104383,3,0.9902

@@ -1,0 +1,4 @@
+Model,MAE,MSE,RMSE,R2,5-Fold CV R2
+Ridge Regression,1.9481,6.8018,2.608,0.4945,0.6401
+KNN Regressor,2.1692,6.8354,2.6145,0.492,0.4522
+Gradient Boosting,2.2935,7.9528,2.8201,0.409,0.5983

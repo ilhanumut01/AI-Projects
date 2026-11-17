@@ -1,0 +1,4 @@
+Model Çifti,Ortak Anomali,Jaccard,Skor Korelasyonu (Spearman)
+Isolation Forest - Local Outlier Factor,20,0.0526,0.4354
+Isolation Forest - One-Class SVM,86,0.2713,0.4647
+Local Outlier Factor - One-Class SVM,66,0.1958,0.2684
